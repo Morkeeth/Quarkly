@@ -1,3 +1,17 @@
+# Quarkly website experiment
+
+## TLDR
+
+A Gatsby site generated through the Quarkly visual design tool.<br>
+For maintainers who want to inspect the generated React components and alter the site.<br>
+The framework and design-tool documentation below describes the generated project, not independent product adoption.
+
+## Review and pick up the work
+
+[Agent guide](AGENTS.md)
+
+Start with the linked source, setup and evidence. Recorded demos and sample data keep their original scope; use the repository instructions for a fresh run.
+
 <p align="center">
   <img src="http://uploads.quarkly.io/readme/gatsby/readme-quarkly-and-gatsby.png" width="480px" alt="Gatsby project from Quarkly">
 </p>
@@ -77,3 +91,7 @@ Here you can create websites and web apps quickly, conveniently and beautifully.
 
 # 📝 License
 Licensed under the [MIT License](./LICENSE).
+
+## License and data boundaries
+
+Code terms: [LICENSE](LICENSE). Data, provider responses, media, fonts and other third-party assets may have separate terms. Repository access alone does not grant rights to those materials. 
