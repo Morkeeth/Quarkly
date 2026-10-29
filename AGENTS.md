@@ -1,4 +1,4 @@
-# Working on ✨ Install
+# Working on Quarkly website experiment
 
 Read README.md first. This guide describes the repository source, not an authorization to deploy or publish.
 
