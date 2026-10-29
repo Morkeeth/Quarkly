@@ -1,4 +1,4 @@
-# ✨ Install
+# Quarkly website experiment
 
 ## TLDR
 
